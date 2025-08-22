@@ -150,7 +150,7 @@ const Content = () => {
       VJC Overseas
     </Link>
   </strong> today to begin your journey towards securing your{" "}
-  <Link href="https://vjcoverseas.com/work-abroad/germany-work-permit/freelance-visa" style={{ color: "orange" }} target="_blank">
+  <Link href="https://www.vjcoverseas.com/work-abroad/germany-work-permit/freelance-visa" style={{ color: "orange" }} target="_blank">
     Germany Visa for Freelancers
   </Link>.
   Let us help you make your dreams of working as a freelancer in Germany a reality!
