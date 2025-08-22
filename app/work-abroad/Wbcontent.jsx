@@ -63,7 +63,15 @@ const WbContent = () => {
           transition={{ delay: 0.1, duration: 0.8 }}
           className="text-base lg:text-lg mb-6 text-center"
         >
-          At <span className="text-orange-500 font-semibold">VJC Overseas</span>, we believe that the world is full of exciting career opportunities waiting for talented individuals like you. Whether you're looking to advance your career, experience new cultures, or seek better work-life balance, we specialize in connecting skilled professionals with top-tier employers worldwide.
+          At{" "}
+          <span className="text-orange-500 font-semibold">
+            <Link href="https://www.vjcoverseas.com">VJC Overseas</Link>
+          </span>
+          , we believe that the world is full of exciting career opportunities
+          waiting for talented individuals like you. Whether you're looking to
+          advance your career, experience new cultures, or seek better work-life
+          balance, we specialize in connecting skilled professionals with
+          top-tier employers worldwide.
         </motion.p>
 
         {/* Why Choose Title */}
@@ -73,7 +81,7 @@ const WbContent = () => {
           transition={{ delay: 0.2, duration: 0.8 }}
           className="text-2xl font-semibold mb-8 text-center"
         >
-          Why Choose <span className="text-orange-500">VJC Overseas</span>?
+          Why Choose <span className="font-bold text-black">VJC Overseas</span>?
         </motion.h4>
 
         {/* Points */}
@@ -111,6 +119,114 @@ const WbContent = () => {
           })}
         </div>
 
+        {/* Extra Content */}
+        <motion.div
+          initial={{ opacity: 0, x: -30 }}
+          whileInView={{ opacity: 1, x: 0 }}
+          transition={{ delay: 0.3, duration: 1 }}
+          className="mt-12 space-y-6 text-base lg:text-lg text-gray-800"
+        >
+          <p>
+            Explore Opportunities to{" "}
+            <span className="text-orange-500">
+              <Link href="https://www.vjcoverseas.com/work-abroad">
+                Work Abroad Opportunities
+              </Link>
+            </span>{" "}
+            Discover exciting job opportunities worldwide and kickstart your
+            international career with trusted guidance. Our team at{" "}
+            <span className="font-bold text-black">VJC Overseas</span> is
+            dedicated to helping skilled professionals like you navigate every
+            step of the process – from identifying the right job, applying for a
+            visa, to settling comfortably in your new home country.
+          </p>
+
+          <p>
+            Work Abroad with <span className="font-bold text-black">VJC Overseas</span> – Unlock Global Career Opportunities At{" "}
+            <span className="font-bold text-black">VJC Overseas</span>, we believe the world is filled with countless
+            possibilities. Many ambitious professionals aspire to{" "}
+            <span className="font-bold text-black">
+              Work Abroad Opportunities
+            </span>{" "}
+            that allow them to grow in their careers, gain international
+            exposure, and experience new lifestyles. Whether you are looking to
+            improve your skills, enjoy better financial prospects, or embrace
+            cultural diversity, we are here to connect you with the right
+            employers and destinations.
+          </p>
+
+          <p>
+            Why Choose <span className="font-bold text-black">VJC Overseas</span>? 1. Tailored Career Pathways We
+            recognize that every candidate has unique strengths and goals. As
+            one of the{" "}
+            <span className="text-orange-500">
+              <Link href="https://www.vjcoverseas.com">
+                Best Visa Immigration Consultants
+              </Link>
+            </span>
+            , we take time to evaluate your profile, qualifications, and
+            aspirations before recommending the right career pathway. From
+            engineering and IT roles to healthcare and skilled trades, our
+            guidance ensures that your move abroad is meaningful and
+            sustainable.
+          </p>
+
+          <p>
+            2. Global Network of Employers Our global employer network is one of
+            our greatest strengths. With opportunities spanning Europe,
+            Australia, Canada, and the Middle East, we ensure access to premium
+            job markets. If you are seeking a{" "}
+            <span className="text-orange-500">
+              <Link href="https://www.vjcoverseas.com/work-abroad/germany-work-permit">
+                Germany Work Permit
+              </Link>
+            </span>
+            , for instance, we help you understand eligibility, documentation,
+            and connect you with top employers hiring skilled workers in
+            Germany.
+          </p>
+
+          <p>
+            3. Hassle-Free Immigration & Relocation Support Relocating abroad is
+            more than securing a job – it involves visas, paperwork, and a
+            smooth transition. Our experts provide comprehensive support,
+            including guidance on visa categories like the{" "}
+            <span className="text-orange-500">
+              <Link href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-skilled-worker-visa">
+                UK Skilled Worker Visa
+              </Link>
+            </span>
+            , relocation planning, and pre-departure counseling, so you are
+            fully prepared before your journey.
+          </p>
+
+          <p>
+            4. Long-Term Success and Settlement At{" "}
+            <span className="font-bold text-black">VJC Overseas</span>, we are
+            committed to your success beyond just job placement. Our team
+            continues to support you even after you move abroad, ensuring that
+            you adapt comfortably to your workplace, understand cultural
+            nuances, and build a successful career in your chosen destination.
+          </p>
+
+          <p>
+            Start Your Global Career Journey Today Your international career
+            dream is closer than you think. With the right opportunities, expert
+            guidance, and personalized support, you can build a rewarding life
+            abroad. Partner with <span className="font-bold text-black">VJC Overseas</span> today to explore the best{" "}
+            <span className="font-bold text-black">
+              Work Abroad Opportunities
+            </span>{" "}
+            in leading countries, secure your future with trusted programs like
+            the{" "}
+            <span className="font-bold text-black">Germany Work Permit</span>,
+            and take the next step with options such as the{" "}
+            <span className="font-bold text-black">UK Skilled Worker Visa</span>
+            . The world is waiting – it’s time to step into new horizons and
+            create the global career you deserve.
+          </p>
+        </motion.div>
+
         {/* Final Paragraph */}
         <motion.p
           initial={{ opacity: 0, x: -30 }}
@@ -119,35 +235,11 @@ const WbContent = () => {
           className="mt-12 text-center text-base lg:text-lg"
         >
           Start your journey towards an exciting new career abroad today with{" "}
-          <span className="text-orange-500 font-semibold">VJC Overseas</span>. Explore endless opportunities,
-          enhance your professional skills, and embrace new horizons with us.
+          <span className="font-bold text-black">VJC Overseas</span>. Explore
+          endless opportunities, enhance your professional skills, and embrace
+          new horizons with us.
         </motion.p>
       </motion.div>
-
-      {/* Additional Content */}
-      <div className="max-w-7xl mx-auto mt-12 text-gray-900 space-y-6">
-        <p>
-          Explore Opportunities to Work Abroad. Discover exciting job opportunities worldwide and kickstart your international career with trusted guidance. Our team at <span className="text-orange-500"><Link href="https://www.vjcoverseas.com">VJC Overseas</Link></span> is dedicated to helping skilled professionals like you navigate every step of the process – from identifying the right job, applying for a visa, to settling comfortably in your new home country.
-        </p>
-        <p>
-          Work Abroad with <span className="font-bold text-black">VJC Overseas</span> – Unlock Global Career Opportunities. At <span className="font-bold text-black">VJC Overseas</span>, we believe the world is filled with countless possibilities. Many ambitious professionals aspire to <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/work-abroad">Work Abroad Opportunities</Link></span> that allow them to grow in their careers, gain international exposure, and experience new lifestyles.
-        </p>
-        <p>
-          1. Tailored Career Pathways – We recognize that every candidate has unique strengths and goals. As one of the <span className="text-orange-500"><Link href="https://www.vjcoverseas.com">Best Visa Immigration Consultants</Link></span>, we take time to evaluate your profile, qualifications, and aspirations before recommending the right career pathway. From engineering and IT roles to healthcare and skilled trades, our guidance ensures that your move abroad is meaningful and sustainable.
-        </p>
-        <p>
-          2. Global Network of Employers – Our global employer network is one of our greatest strengths. With opportunities spanning Europe, Australia, Canada, and the Middle East, we ensure access to premium job markets. If you are seeking a <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/work-abroad/germany-work-permit">Germany Work Permit</Link></span>, for instance, we help you understand eligibility, documentation, and connect you with top employers hiring skilled workers in Germany.
-        </p>
-        <p>
-          3. Hassle-Free Immigration & Relocation Support – Relocating abroad is more than securing a job – it involves visas, paperwork, and a smooth transition. Our experts provide comprehensive support, including guidance on visa categories like the <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-skilled-worker-visa">UK Skilled Worker Visa</Link></span>, relocation planning, and pre-departure counseling, so you are fully prepared before your journey.
-        </p>
-        <p>
-          4. Long-Term Success and Settlement – At <span className="font-bold text-black">VJC Overseas</span>, we are committed to your success beyond just job placement. Our team continues to support you even after you move abroad, ensuring that you adapt comfortably to your workplace, understand cultural nuances, and build a successful career in your chosen destination.
-        </p>
-        <p>
-          Start Your Global Career Journey Today – Your international career dream is closer than you think. With the right opportunities, expert guidance, and personalized support, you can build a rewarding life abroad. Partner with <span className="font-bold text-black">VJC Overseas</span> today to explore the best <span className="font-bold text-black">Work Abroad Opportunities</span> in leading countries, secure your future with trusted programs like the <span className="font-bold text-black">Germany Work Permit</span>, and take the next step with options such as the <span className="font-bold text-black">UK Skilled Worker Visa</span>. The world is waiting – it’s time to step into new horizons and create the global career you deserve.
-        </p>
-      </div>
     </div>
   );
 };
