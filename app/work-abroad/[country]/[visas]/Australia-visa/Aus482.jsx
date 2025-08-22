@@ -24,7 +24,7 @@ const Australia482Visa = () => {
       <div className="relative lg:p-4 bg-gradient-to-r my-10 from-orange-100 to-sky-100 rounded-2xl shadow-lg hover:scale-105 transition-transform duration-300 ease-in-out w-fit mx-auto">
         <Image
           src="/Aus-work-abroad/work-abroad1.png"
-          alt="Migrate - Apply Now"
+          alt="Australia Temporary Skills 482 Visa"
           width={900}
           height={630}
           className="w-[22rem] lg:w-[31rem] h-[16rem] lg:h-[20rem] items-center rounded-xl"
