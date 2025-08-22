@@ -31,7 +31,7 @@ const GermanySkilled = () => {
         <div className="flex-shrink-0 mx-auto lg:mx-0">
           <Image
             src="/germanyswvisa.jpeg"
-            alt="Image description"
+            alt="Germany Skilled Work Permit Visa"
             width={500}
             height={300}
             className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:w-80 lg:h-70 object-contain"
