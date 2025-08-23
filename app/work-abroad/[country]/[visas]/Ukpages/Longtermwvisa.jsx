@@ -19,25 +19,24 @@ const LongTermWorkVisa = () => {
           UK Long Term Work Visa for Indians – Your Pathway to a Rewarding
           Career Abroad
         </h1>
-        <p>
-  Dreaming of a long-term career in the UK? The UK Long Term Work Visa
-  is your gateway to global opportunities, better pay, and a higher
-  quality of life. At <strong>VJC Overseas</strong>, we simplify your journey to the UK by offering expert guidance at
-  every step. As one of the{" "}
-  <Link
-    href="https://www.vjcoverseas.com"
-    className="text-orange-500 font-bold"
-  >
-    Best Visa Immigration Consultants
-  </Link>
-  , we provide end-to-end support for Indian professionals.
-</p>
+        <p className="mb-6">
+          Dreaming of a long-term career in the UK? The UK Long Term Work Visa
+          is your gateway to global opportunities, better pay, and a higher
+          quality of life. At <strong>VJC Overseas</strong>, we simplify your journey to the UK by offering expert guidance at
+          every step. As one of the{" "}
+          <Link
+            href="https://www.vjcoverseas.com"
+            className="text-orange-500 font-bold"
+          >
+            Best Visa Immigration Consultants
+          </Link>
+          , we provide end-to-end support for Indian professionals.
+        </p>
 
-
-        <h2 className="text-xl mt-3 font-bold">
+        <h2 className="text-xl mt-6 mb-3 font-bold">
           What is the UK Long Term Work Visa?
         </h2>
-        <p>
+        <p className="mb-6">
           The UK Long Term Work Visa—commonly known as the Skilled Worker
           Visa—allows foreign nationals to live and work in the UK for up to 5
           years with the possibility of extension or settlement. This visa is
@@ -56,7 +55,7 @@ const LongTermWorkVisa = () => {
           <div className="flex-shrink-0 mx-auto lg:mx-0">
             <Image
               src="/Longtermworkvisa1.jpg"
-              alt="UK Work Visa"
+              alt="UK Longterm Visa"
               width={500}
               height={300}
               className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:w-80 lg:h-70 object-contain shadow-lg rounded-lg"
@@ -65,10 +64,10 @@ const LongTermWorkVisa = () => {
           </div>
         </div>
 
-        <h2 className="text-xl mt-3 font-bold">
+        <h2 className="text-xl mt-6 mb-3 font-bold">
           Key Benefits of the UK Long Term Work Visa
         </h2>
-        <ul>
+        <ul className="mb-6">
           <li>Pathway to Permanent Residency (ILR) after 5 years</li>
           <li>Spouse and children can join you as dependents</li>
           <li>Access to NHS (National Health Service) healthcare</li>
@@ -81,10 +80,10 @@ const LongTermWorkVisa = () => {
           <li>Flexible job changes within the UK after switching sponsors</li>
         </ul>
 
-        <h2 className="text-xl mt-3 font-bold">
+        <h2 className="text-xl mt-6 mb-3 font-bold">
           Why This Visa is Ideal for Indians?
         </h2>
-        <p>
+        <p className="mb-6">
           Established Indian communities thrive in London, Birmingham, and
           Leicester, with access to groceries, temples, and cultural events.
           This visa requires a comparatively lower IELTS score, making it more
@@ -99,7 +98,7 @@ const LongTermWorkVisa = () => {
           options after completing their long-term work journey.
         </p>
 
-        <h2 className="text-xl mt-3 font-bold">
+        <h2 className="text-xl mt-6 mb-3 font-bold">
           Cost of Living in the UK for Indians on a Long Term Work Visa
         </h2>
         <div className="bg-gray-100 p-4 rounded-xl shadow mb-6 overflow-auto">
@@ -142,15 +141,15 @@ const LongTermWorkVisa = () => {
             </tbody>
           </table>
         </div>
-        <p>
+        <p className="mb-6">
           <strong>
             Cities like Manchester, Birmingham, and Leeds offer lower costs than
             London.
           </strong>
         </p>
 
-        <h2 className="text-xl mt-3 font-bold">Visa Application Requirements</h2>
-        <ul>
+        <h2 className="text-xl mt-6 mb-3 font-bold">Visa Application Requirements</h2>
+        <ul className="mb-6">
           <li>A job offer from a UK-licensed sponsor</li>
           <li>Certificate of Sponsorship (CoS)</li>
           <li>
@@ -161,12 +160,12 @@ const LongTermWorkVisa = () => {
           <li>Proof of maintenance funds unless employer covers it</li>
         </ul>
 
-        <hr />
-        <h2 className="text-xl mt-3 font-bold">
+        <hr className="my-6" />
+        <h2 className="text-xl mt-6 mb-3 font-bold">
           UK Skilled Worker Visa Fees (as of 2025)
         </h2>
-        <div>
-          <table border="1">
+        <div className="mb-6">
+          <table border="1" className="w-full text-sm">
             <thead>
               <tr>
                 <th>Application Type</th>
@@ -192,18 +191,18 @@ const LongTermWorkVisa = () => {
               </tr>
             </tbody>
           </table>
-          <p>
+          <p className="mt-2 mb-6">
             <strong>
               Note: Dependents pay the same visa fees. Currency rates may vary.
             </strong>
           </p>
         </div>
 
-        <hr />
-        <h2 className="text-xl mt-3 font-bold">
+        <hr className="my-6" />
+        <h2 className="text-xl mt-6 mb-3 font-bold">
           In-Demand Jobs for Indians in the UK (2025)
         </h2>
-        <ul>
+        <ul className="mb-6">
           <li>Software Developers, Data Analysts, Cybersecurity Experts</li>
           <li>Registered Nurses, Care Workers, Radiographers</li>
           <li>Secondary School Teachers (Maths, Physics, Computing)</li>
@@ -211,11 +210,11 @@ const LongTermWorkVisa = () => {
           <li>Chefs and Hospitality Managers</li>
         </ul>
 
-        <hr />
-        <h2 className="text-xl mt-3 font-bold">
+        <hr className="my-6" />
+        <h2 className="text-xl mt-6 mb-3 font-bold">
           Why Choose VJC Overseas for Your UK Work Visa?
         </h2>
-        <p>
+        <p className="mb-6">
           At{" "}
           <Link
             href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-long-term-work-visa"
@@ -236,18 +235,18 @@ const LongTermWorkVisa = () => {
           residency.
         </p>
 
-        <ul>
+        <ul className="mb-6">
           <li>End-to-end visa support</li>
           <li>Job search and employer connections in the UK</li>
           <li>Documentation and IELTS training assistance</li>
           <li>Pre-departure and settlement guidance</li>
         </ul>
-        <p>
+        <p className="mb-6">
           <strong> Free Consultation Today!</strong> Don’t miss the
           opportunity to build a better future in the UK.
         </p>
 
-        <p>
+        <p className="mb-6">
           For expert assistance and a smooth visa process, trust{" "}
           <Link
             href="https://www.vjcoverseas.com"
@@ -257,7 +256,6 @@ const LongTermWorkVisa = () => {
           </Link>{" "}
           to guide you every step of the way.
         </p>
-
       </section>
     </div>
   );
