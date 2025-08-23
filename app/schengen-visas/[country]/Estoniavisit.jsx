@@ -39,7 +39,7 @@ const Estoniavisit = () => {
 
         <h2 className="text-xl font-semibold mt-6">Estonia Visit/Tourist Visa Overview</h2>
         <p className="mt-4">
-          The Estonia Visit/Tourist Visa is a short-stay visa (<Link href="https://www.vjcoverseas.com/schengen-visas" className="text-orange-500 font-bold">Schengen Visit Visa</Link>) 
+          The Estonia Visit/Tourist Visa is a short-stay visa <Link href="https://www.vjcoverseas.com/schengen-visas" className="text-orange-500 font-bold">Schengen Visit Visa</Link> 
           that allows you to travel to Estonia for up to 90 days within a 180-day period. It is primarily for tourists, individuals visiting family and friends, or those traveling for business purposes. The visa grants entry into all Schengen Area countries, making it an excellent option for exploring multiple European destinations.
         </p>
 
