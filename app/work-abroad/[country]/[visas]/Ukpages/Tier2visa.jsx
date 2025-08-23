@@ -12,7 +12,7 @@ const Tier2visa = () => {
         <strong>Make Your British Dream a Reality with the UK Skilled Worker Visa</strong>
       </p>
       <p className="mb-6">
-        Are you an Indian professional looking to build a successful career in the United Kingdom? The UK Tier 2 Visa, now known as the Skilled Worker Visa, offers you a direct route to work, settle, and thrive in the UK. <strong>VJC Overseas</strong> – India’s most trusted visa consultant – is here to guide you every step of the way. Explore more <Link href="https://www.vjcoverseas.com/work-abroad" className="text-orange-500 underline font-bold">Work Abroad Opportunities</Link> and expand your professional horizon by working in some of the world’s leading industries.
+        Are you an Indian professional looking to build a successful career in the United Kingdom? The UK Tier 2 Visa, now known as the Skilled Worker Visa, offers you a direct route to work, settle, and thrive in the UK. <strong>VJC Overseas</strong> – India’s most trusted visa consultant – is here to guide you every step of the way. Explore more <Link href="https://www.vjcoverseas.com/work-abroad" className="text-orange-500  font-bold">Work Abroad Opportunities</Link> and expand your professional horizon by working in some of the world’s leading industries.
       </p>
 
       <div className="flex flex-col lg:flex-row items-start h-auto lg:space-x-6 space-y-4 lg:space-y-0">
@@ -91,7 +91,7 @@ const Tier2visa = () => {
           </tbody>
         </table>
         <p className="mt-4">
-          <strong>Tip:</strong> Cities like Manchester, Birmingham, and Glasgow are more affordable than London and offer great job opportunities. Also, consider <Link href="https://www.vjcoverseas.com/pr-visas/uk-pr" className="text-orange-500 underline font-bold">UK PR Visa</Link> options if you plan for long-term settlement.
+          <strong>Tip:</strong> Cities like Manchester, Birmingham, and Glasgow are more affordable than London and offer great job opportunities. Also, consider <Link href="https://www.vjcoverseas.com/pr-visas/uk-pr" className="text-orange-500  font-bold">UK PR Visa</Link> options if you plan for long-term settlement.
         </p>
       </div>
 
@@ -102,7 +102,7 @@ const Tier2visa = () => {
         <li>End-to-End Visa Filing</li>
         <li>IELTS Coaching & Mock Interviews</li>
         <li>Post-Landing Support in the UK</li>
-        <li>Trust our <Link href="https://www.vjcoverseas.com" className="text-orange-500 underline font-bold">Best Visa Immigration Consultants</Link> to handle your UK visa process smoothly and efficiently.</li>
+        <li>Trust our <Link href="https://www.vjcoverseas.com" className="text-orange-500  font-bold">Best Visa Immigration Consultants</Link> to handle your UK visa process smoothly and efficiently.</li>
       </ul>
 
       <h2 className="text-xl font-semibold mb-3">In-Demand Jobs in the UK for Indians on a Tier 2 Visa</h2>
@@ -114,16 +114,16 @@ const Tier2visa = () => {
         <li>Hospitality & Construction roles</li>
       </ul>
       <p className="mb-6">
-        <strong>Pro tip:</strong> Many UK employers offer full sponsorship packages, including relocation support and joining bonuses. For detailed guidance, check our <Link href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit" className="text-orange-500 underline font-bold">UK Work Permit Visa</Link> page.
+        <strong>Pro tip:</strong> Many UK employers offer full sponsorship packages, including relocation support and joining bonuses. For detailed guidance, check our <Link href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit" className="text-orange-500  font-bold">UK Work Permit Visa</Link> page.
       </p>
 
       <p className="mb-6">
-        Build your career and settle in the UK with confidence. The <Link href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-tire-2-visa" className="text-orange-500 underline font-bold">UK Tier 2 Work Permit</Link>, also known as the Skilled Worker Visa, is designed for Indian professionals seeking long-term work and growth opportunities abroad. Whether you’re aiming for career advancement or international exposure, VJC Overseas guides you through the entire process efficiently.
+        Build your career and settle in the UK with confidence. The <Link href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-tire-2-visa" className="text-orange-500  font-bold">UK Tier 2 Work Permit</Link>, also known as the Skilled Worker Visa, is designed for Indian professionals seeking long-term work and growth opportunities abroad. Whether you’re aiming for career advancement or international exposure, VJC Overseas guides you through the entire process efficiently.
       </p>
 
       <h2 className="text-xl font-semibold mb-3">Start your UK journey.</h2>
       <p className="mb-2">
-        Make your UK move stress-free and successful with VJC Overseas. Our Tier 2 Visa consultants are just a call away. Visit our <Link href="https://www.vjcoverseas.com" className="text-orange-500 underline font-bold">VJC Overseas</Link> website for more details.
+        Make your UK move stress-free and successful with VJC Overseas. Our Tier 2 Visa consultants are just a call away. Visit our <Link href="https://www.vjcoverseas.com" className="text-orange-500 font-bold">VJC Overseas</Link> website for more details.
       </p>
     </div>
   );
