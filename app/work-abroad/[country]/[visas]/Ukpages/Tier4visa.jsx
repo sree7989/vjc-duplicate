@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 const Tier4visa = () => {
   return (
@@ -23,16 +24,16 @@ const Tier4visa = () => {
           <br />
           Dreaming of studying in the UK? The UK Tier 4 Student Visa is your
           ticket to experiencing top-ranked universities, global exposure, and
-          career-defining opportunities. At <strong>VJC Overseas</strong>, we
-          specialize in guiding Indian students through the complete UK student
+          career-defining opportunities. At{" "}
+          <Link href="https://www.vjcoverseas.com" className="text-orange-500 font-bold">
+            VJC Overseas
+          </Link>
+          , we specialize in guiding Indian students through the complete UK student
           visa process – making your overseas education journey seamless and
           successful. For those exploring{" "}
-          <a
-            href="https://vjcoverseas.com/work-abroad"
-            className="text-orange-500"
-          >
+          <Link href="https://www.vjcoverseas.com/work-abroad" className="text-orange-500">
             Work Abroad Opportunities
-          </a>
+          </Link>
           , this visa also opens doors to post-study work options, internships,
           and part-time employment that can enhance your global experience.
         </p>
@@ -46,12 +47,9 @@ const Tier4visa = () => {
           courses longer than 6 months. This visa is essential if you're
           planning to pursue undergraduate, postgraduate, or doctoral degrees
           at recognized UK institutions. Indian students can also explore{" "}
-          <a
-            href="https://vjcoverseas.com/pr-visas/uk-pr"
-            className="text-orange-500"
-          >
+          <Link href="https://www.vjcoverseas.com/pr-visas/uk-pr" className="text-orange-500">
             UK PR Visa
-          </a>{" "}
+          </Link>{" "}
           pathways after graduation.
         </p>
 
@@ -59,7 +57,7 @@ const Tier4visa = () => {
           <div className="flex-shrink-0 mx-auto lg:mx-0">
             <Image
               src="/uktier4.png"
-              alt="Image description"
+              alt="Tier 4 Visa"
               width={500}
               height={300}
               className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:w-80 lg:h-70 object-contain shadow-lg rounded-lg"
@@ -86,12 +84,9 @@ const Tier4visa = () => {
         <p>
           <strong>Visa Extensions:</strong> Possible for further studies or
           switching to a{" "}
-          <a
-            href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit"
-            className="text-orange-500"
-          >
+          <Link href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit" className="text-orange-500">
             UK Work Permit Visa
-          </a>
+          </Link>
         </p>
 
         <hr />
@@ -181,12 +176,9 @@ const Tier4visa = () => {
           <li>Stay Visa-Compliant: Attend classes and meet visa conditions</li>
           <li>
             Health Insurance: IHS gives access to NHS services. Consider{" "}
-            <a
-              href="https://vjcoverseas.com"
-              className="text-orange-500"
-            >
+            <Link href="https://www.vjcoverseas.com" className="text-orange-500">
               Best Visa Immigration Consultants
-            </a>{" "}
+            </Link>{" "}
             for assistance.
           </li>
         </ul>
@@ -211,25 +203,21 @@ const Tier4visa = () => {
         <h2 className="text-xl mt-3 font-bold">Let’s Make Your UK Dream a Reality</h2>
         <p>
           Connect with VJC Overseas, India’s trusted UK student visa consultant.
-          <br />
-          <strong>Visit Us:</strong> Hyderabad | Bengaluru
-          <br />
-          <strong>Call Now:</strong> +91-9160449000
-          <br />
-          <strong>Email:</strong> info@vjcoverseas.com
+          
         </p>
         <p>
-          <strong>
-            Apply for your UK Tier 4 Student Visa with VJC Overseas – Your
+          
+            Apply for your UK Tier 4 Student Visa with <span className="font-bold text-black"> VJC Overseas </span>
+  Your
             Future Starts Here.
-          </strong>{" "}
+          
           Explore{" "}
-          <a
-            href="https://vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-tire-4-visa"
+          <Link
+            href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-tire-4-visa"
             className="text-orange-500"
           >
             UK Tier 4 Student Visa
-          </a>{" "}
+          </Link>{" "}
           options today!
         </p>
       </section>
