@@ -23,7 +23,7 @@ const Swedenvisit = () => {
         <div className="flex-shrink-0 mx-auto lg:mx-0">
           <Image
             src="/swedentimg.jpg"
-            alt="Image description"
+            alt="Sweden Tourist Visa Vjc Overseas"
             width={500}
             height={300}
             className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:w-80 lg:h-70 object-contain shadow-lg rounded-lg"
