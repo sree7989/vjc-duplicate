@@ -86,14 +86,6 @@ export default function IrelandResumeMarketing() {
         From CV writing to LinkedIn optimization and interview coaching, we provide end-to-end support that ensures long-term career success. Partner with us today to experience the difference that true expertise can bring.
       </p>
 
-      <h3 className="text-xl mt-4 font-semibold text-blue-400 mb-2">
-        Contact <strong className="text-black font-bold">VJC Overseas</strong> Today:
-      </h3>
-      <ul className="list-disc pl-6">
-        <li>Email: info@vjcoverseas.com</li>
-        <li>Phone: +91-9160449000</li>
-        <li>Website: www.vjcoverseas.com</li>
-      </ul>
     </div>
   );
 }
