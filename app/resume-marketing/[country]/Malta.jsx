@@ -97,7 +97,7 @@ const MaltaResumeMarketing = () => {
       </h2>
       <p className="mt-4 text-lg text-center" style={{ fontFamily: "Times New Roman" }}>
   Whether you’re a fresh graduate or an experienced professional, our <span className="font-bold text-black">Malta Resume Marketing Services</span> are designed to help you succeed. 
-  Backed by years of expertise, <link href="https://vjcoverseas.com"><span className="font-bold text-orange-500">VJC Overseas</span></link> has helped countless individuals achieve their dream of working abroad. 
+  Backed by years of expertise, <Link href="https://vjcoverseas.com"><span className="font-bold text-orange-500">VJC Overseas</span></Link> has helped countless individuals achieve their dream of working abroad. 
   If you are serious about boosting your chances in Malta, let us craft your resume and market your profile to the right employers. 
   Connect with us today to discover how our specialized services can transform your career path.
 </p>
