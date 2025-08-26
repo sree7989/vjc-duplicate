@@ -119,7 +119,7 @@ export default function AirTicketingDetails() {
         <p className="text-gray-700 leading-relaxed">
   With our strong network and expertise, 
   <Link href="https://www.vjcoverseas.com">
-    <span className="text-orange-500 font-bold">VJC Overseas</span>
+    <span className="text-orange-500 font-bold"> VJC Overseas </span>
   </Link> 
   has built a reputation as one of the most trusted consultancies in the industry. If you are planning a trip abroad, from short vacations to long-term stays, our <strong className="text-black">Tours and Ticketing Services</strong> are designed to give you confidence and peace of mind every step of the way.
 </p>
