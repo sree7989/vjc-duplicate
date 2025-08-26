@@ -9,7 +9,7 @@ export default function MalaysiaResumeMarketing() {
       </h1>
 
       <p>
-        Unlock Your Career Potential with <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/resume-marketing">Professional Resume Marketing Services</Link></span> in Malaysia.
+        Unlock Your Career Potential with <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/resume-marketing"> Resume Marketing Services </Link></span> in Malaysia.
       </p>
 
       <div className="relative lg:p-4 bg-gradient-to-r my-10 from-orange-100 to-sky-100 rounded-2xl shadow-lg hover:scale-105 transition-transform duration-300 ease-in-out w-fit mx-auto">
