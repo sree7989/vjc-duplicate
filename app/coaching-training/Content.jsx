@@ -20,7 +20,7 @@ const BusinessVisaContent = () => {
         {/* Coaching & Training Services Section */}
         <h1 className="text-2xl font-bold mt-16 mb-6 text-black">Coaching & Training Services – <span className="text-black font-bold">VJC Overseas</span></h1>
         <p className="text-lg mt-4 leading-relaxed">
-          At <span className="font-bold text-black">VJC Overseas</span>, we believe that the foundation of a successful visa application starts with the right preparation. Many students and professionals face challenges not because of lack of skills but due to insufficient guidance in language tests, interview preparation, and documentation. That’s why our <a href="https://vjcoverseas.com/coaching-training"><span className="text-orange-500">Coaching & Training Services</span></a> are designed to help you build confidence, strengthen your skills, and improve your chances of success in study abroad and work visa applications.
+          At <span className="font-bold text-black">VJC Overseas</span>, we believe that the foundation of a successful visa application starts with the right preparation. Many students and professionals face challenges not because of lack of skills but due to insufficient guidance in language tests, interview preparation, and documentation. That’s why our <a href="https://www.vjcoverseas.com/coaching-training"><span className="text-orange-500">Coaching & Training Services</span></a> are designed to help you build confidence, strengthen your skills, and improve your chances of success in study abroad and work visa applications.
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-4 text-black">Why Choose Us?</h2>
