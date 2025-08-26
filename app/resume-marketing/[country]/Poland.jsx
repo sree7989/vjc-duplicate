@@ -16,7 +16,7 @@ const PolandResumeMarketing = () => {
       <p className="text-lg mt-4" style={{ fontFamily: "Times New Roman" }}>
         Welcome to{" "}
         <span className="text-orange-500">
-          <Link href="https://vjcoverseas.com">VJC Overseas</Link>
+          <Link href="https://www.vjcoverseas.com">VJC Overseas</Link>
         </span>
         , your trusted partner in advancing your career in Poland! With years of
         experience in guiding international job seekers, we offer{" "}
