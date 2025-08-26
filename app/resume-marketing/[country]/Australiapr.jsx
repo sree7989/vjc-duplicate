@@ -56,7 +56,7 @@ export default function AustraliaResumeMarketing() {
       {/* Work Opportunities */}
       <h3 className="text-lg font-semibold mt-8 mb-2 text-black">Work Opportunities in Australia</h3>
       <ul className="list-disc list-inside space-y-1">
-        <li><strong>Technology:</strong> Demand for cybersecurity, AI, and cloud professionals. This is ideal for those leveraging <Link href="https://vjcoverseas.com/work-abroad/usa-h1b-visa" className="text-orange-500 font-bold">USA H1B Visa</Link> guidance in their career strategy.</li>
+        <li><strong>Technology:</strong> Demand for cybersecurity, AI, and cloud professionals. This is ideal for those leveraging guidance in their career strategy.</li>
         <li><strong>Healthcare:</strong> Doctors, nurses, and aged care professionals are in high demand.</li>
         <li><strong>Engineering:</strong> Civil, mechanical, and mining engineers are sought after.</li>
         <li><strong>Skilled Trades:</strong> Plumbers, electricians, and carpenters are urgently needed.</li>
