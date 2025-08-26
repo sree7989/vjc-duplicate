@@ -9,13 +9,13 @@ export default function MalaysiaResumeMarketing() {
       </h1>
 
       <p>
-        Unlock Your Career Potential with <span className="text-orange-500"><Link href="https://vjcoverseas.com/resume-marketing">Professional Resume Marketing Services</Link></span> in Malaysia.
+        Unlock Your Career Potential with <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/resume-marketing">Professional Resume Marketing Services</Link></span> in Malaysia.
       </p>
 
       <div className="relative lg:p-4 bg-gradient-to-r my-10 from-orange-100 to-sky-100 rounded-2xl shadow-lg hover:scale-105 transition-transform duration-300 ease-in-out w-fit mx-auto">
         <Image
           src="/resume/resume12.png"
-          alt="Migrate - Apply Now"
+          alt="Malaysia Resume Marketing Services"
           width={900}
           height={630}
           className="w-[22rem] lg:w-[31rem] h-[16rem] lg:h-[20rem] items-center rounded-xl"
@@ -25,14 +25,14 @@ export default function MalaysiaResumeMarketing() {
       </div>
 
       <p>
-        Welcome to <span className="text-orange-500"><Link href="https://vjcoverseas.com">VJC Overseas</Link></span>, your trusted partner in securing the best job opportunities in Malaysia with our specialized <strong className="text-black font-bold">Resume Marketing Services</strong>. Whether you are a fresh graduate, an experienced professional, or a skilled migrant seeking new career paths, we are here to help you craft a standout resume that enhances your job prospects in Malaysia.
+        Welcome to <span className="text-orange-500"><Link href="https://www.vjcoverseas.com">VJC Overseas</Link></span>, your trusted partner in securing the best job opportunities in Malaysia with our specialized <strong className="text-black font-bold">Resume Marketing Services</strong>. Whether you are a fresh graduate, an experienced professional, or a skilled migrant seeking new career paths, we are here to help you craft a standout resume that enhances your job prospects in Malaysia.
       </p>
 
       <h2 className="text-xl mt-4 mb-2 font-semibold text-blue-400">
         Why Choose <span className="text-orange-500">VJC Overseas</span> for Your Resume Marketing in Malaysia?
       </h2>
       <p>
-        At <strong className="text-black font-bold">VJC Overseas</strong>, we specialize in resume optimization and job marketing strategies tailored to the Malaysian job market. Our services help you stand out from the competition, ensuring that your resume reaches the right employers in Malaysia, opening doors to new opportunities. As one of the <span className="text-orange-500"><Link href="https://vjcoverseas.com">Best Visa Immigration Consultants</Link></span>, we provide trusted support to students, job seekers, and skilled professionals.
+        At <strong className="text-black font-bold">VJC Overseas</strong>, we specialize in resume optimization and job marketing strategies tailored to the Malaysian job market. Our services help you stand out from the competition, ensuring that your resume reaches the right employers in Malaysia, opening doors to new opportunities. As one of the <span className="text-orange-500"><Link href="https://www.vjcoverseas.com">Best Visa Immigration Consultants</Link></span>, we provide trusted support to students, job seekers, and skilled professionals.
       </p>
 
       <h2 className="text-xl mt-4 mb-2 font-semibold text-blue-400">
@@ -46,7 +46,7 @@ export default function MalaysiaResumeMarketing() {
       </ul>
 
       <p>
-        One of the most powerful tools we provide is <span className="text-orange-500"><Link href="https://vjcoverseas.com/resume-marketing">Professional CV Marketing</Link></span>. Instead of leaving your resume unnoticed in databases, our expert team ensures it reaches the right employers and recruiters. We highlight your strengths, industry knowledge, and skills in a manner that makes you an attractive candidate for hiring managers.
+        One of the most powerful tools we provide is <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/resume-marketing">Professional CV Marketing</Link></span>. Instead of leaving your resume unnoticed in databases, our expert team ensures it reaches the right employers and recruiters. We highlight your strengths, industry knowledge, and skills in a manner that makes you an attractive candidate for hiring managers.
       </p>
 
       <h2 className="text-xl mt-4 mb-2 font-semibold text-blue-400">
@@ -65,7 +65,7 @@ export default function MalaysiaResumeMarketing() {
         Work Opportunities in Malaysia
       </h2>
       <p>
-        Malaysia is a thriving hub for multinational companies and has a growing demand for skilled professionals. With <span className="text-orange-500"><Link href="https://vjcoverseas.com/resume-marketing/malaysia">Malaysia Resume Marketing Services</Link></span>, job seekers can effectively target these industries and maximize career growth potential.
+        Malaysia is a thriving hub for multinational companies and has a growing demand for skilled professionals. With <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/resume-marketing/malaysia">Malaysia Resume Marketing Services</Link></span>, job seekers can effectively target these industries and maximize career growth potential.
       </p>
       <ul className="list-disc list-inside space-y-1">
         <li>Tech & IT: Software developers, system analysts, and IT consultants are in high demand.</li>
