@@ -13,8 +13,9 @@ const BusinessVisaContent = () => {
           Business Visa Services by <span className="text-orange-500 font-bold">VJC Overseas</span> - Your Trusted Partner for Global Business Expansion
         </h1>
 <p className="text-lg leading-relaxed mt-6">
-  If you're ready to expand globally, let <Link href="https://www.vjcoverseas.com"><span className="text-orange-500">VJC Overseas</span></Link> simplify the process. Contact us today for expert business visa assistance. We believe that the foundation of a successful visa application starts with the right preparation. Many students and professionals face challenges not because of lack of skills but due to insufficient guidance in language tests, interview preparation, and documentation.
+  If you're ready to expand globally, let <strong className="text-black">VJC Overseas</strong> simplify the process. Contact us today for expert business visa assistance. We believe that the foundation of a successful visa application starts with the right preparation. Many students and professionals face challenges not because of lack of skills but due to insufficient guidance in language tests, interview preparation, and documentation.
 </p>
+
 
         {/* Coaching & Training Services Section */}
         <h1 className="text-2xl font-bold mt-16 mb-6 text-black">Coaching & Training Services – <span className="text-black font-bold">VJC Overseas</span></h1>
