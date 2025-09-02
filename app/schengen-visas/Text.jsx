@@ -22,17 +22,26 @@ const SchengenHighlight = () => {
         <div className="flex flex-col gap-6 justify-center">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold leading-tight">
             Explore Europe with a Schengen Visa –{" "}
-            <span className="text-orange-500">Your Gateway to 27 Stunning Countries</span>
+            <strong className="text-black">Your Gateway to 27 Stunning Countries</strong>
           </h2>
           <p className="text-base sm:text-lg text-gray-200">
-            Planning to explore the romantic streets of Paris, breathtaking landscapes of Switzerland, or historic sites of Rome? With a Schengen tourist visa, you can travel across 27 European countries with a single visa!
+            Planning to explore the romantic streets of Paris, breathtaking landscapes of Switzerland, or historic sites of Rome? With a <strong className="text-black">Tourist Schengen Visa</strong>, you can discover the charm of 27 European countries using just a single visa!
           </p>
           <p className="text-base sm:text-lg text-gray-200">
-            Whether you're dreaming of a relaxing holiday, cultural adventure, or scenic road trip — the Schengen visa makes it easy and accessible.
+            Whether you're looking for a relaxing holiday, a cultural adventure, or a scenic road trip, the <Link href="https://vjcoverseas.com/schengen-visas" className="text-orange-500">Tourist Schengen Visa</Link> makes it possible to experience Europe without borders.
           </p>
           <p className="text-base sm:text-lg text-gray-300 font-semibold">
             Apply with us now for a seamless experience from visa submission to boarding your flight!
           </p>
+
+          <p className="text-base sm:text-lg text-gray-200">
+            At <Link href="https://www.vjcoverseas.com" className="text-orange-500">VJC Overseas</Link>, we specialize in guiding travelers through every step of the application process. From documentation support to interview preparation, our dedicated team ensures your visa journey is smooth, simple, and stress-free.
+          </p>
+
+       <p className="text-base sm:text-lg text-gray-200">
+  Recognized as one of the <Link href="https://www.vjcoverseas.com" className="text-orange-500">Best Visa Immigration Consultants</Link>, we combine expertise with personalized service to maximize your approval chances and help you get the <strong className="text-blue-500">Schengen Visit Visa</strong> efficiently.
+</p>
+
 
           <Link href="/assessment">
             <button className="relative overflow-hidden bg-orange-500 text-white font-semibold px-6 py-3 rounded-full shadow-lg transition-all duration-300 ease-in-out group w-fit mt-2">
@@ -76,6 +85,25 @@ const SchengenHighlight = () => {
             </div>
           ))}
         </div>
+      </div>
+
+      {/* Additional Content */}
+      <div className="relative max-w-6xl mx-auto mt-10 text-gray-200">
+        <p className="mb-5 text-base text-justify leading-snug">
+          Why Choose a <Link href="https://www.vjcoverseas.com/schengen-visas" className="text-orange-500">Schengen Visit Visa</Link>? Travel freedom to 27 countries including Germany, Spain, Italy, France, and Greece. Multiple purposes like tourism, family visits, and cultural programs. Short processing time and convenience—all with one visa.
+        </p>
+        <p className="mb-5 text-base text-justify leading-snug">
+          Our goal is to make your dream of traveling across Europe a reality. Through our specialized <Link href="https://www.vjcoverseas.com/visit-visas" className="text-orange-500">Visit Visa Process</Link>, we assist with eligibility guidance, document preparation, visa interview support, and itinerary planning.
+        </p>
+        <p className="mb-5 text-base text-justify leading-snug">
+          In addition, our team offers end-to-end <Link href="https://www.vjcoverseas.com/tours-ticketing" className="text-orange-500">Travel Visa Assistance</Link>, including ticketing, insurance guidance, and consultation on related travel formalities.
+        </p>
+        <p className="mb-5 text-base text-justify leading-snug">
+          Your European journey starts with the right visa partner. Let <strong className="text-blue-500">VJC Overseas</strong> handle the complexities while you focus on creating unforgettable memories.
+        </p>
+        <p className="mb-5 text-base text-justify leading-snug">
+          Apply now for your <strong className="text-blue-500">Tourist Schengen Visa</strong> and take the first step towards experiencing Europe like never before.
+        </p> 
       </div>
     </section>
   );
