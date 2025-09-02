@@ -101,7 +101,7 @@ const PhilippinesTour = () => {
 
       <h2 className="text-xl font-bold mb-3 text-[#0D5BA8]">Begin Your Philippine Journey Today</h2>
       <p className="mb-5 text-base text-justify leading-snug">
-        With <span className="text-orange-500"><Link href="https://vjcoverseas.com" className="text-orange-500">VJC Overseas</Link></span>, the Philippines tourist visa process is easy and efficient, and your travel arrangements are perfectly organized. Contact us now to start your visa application and explore our affordable Philippines tour packages tailored just for you.
+        With <span className="text-orange-500"><Link href="https://www.vjcoverseas.com" className="text-orange-500">VJC Overseas</Link></span>, the Philippines tourist visa process is easy and efficient, and your travel arrangements are perfectly organized. Contact us now to start your visa application and explore our affordable Philippines tour packages tailored just for you.
       </p>
       <p className="text-base font-semibold text-center md:text-left text-orange-600">
         Reach out today and make your dream Philippines holiday come true!
